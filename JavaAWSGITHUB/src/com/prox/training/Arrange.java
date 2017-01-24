@@ -10,11 +10,6 @@ public class Arrange {
 			s = s + i + " ";
 			System.out.println(s);
 			
-			
 		}
 	}
 }
-
-
-		
-		
