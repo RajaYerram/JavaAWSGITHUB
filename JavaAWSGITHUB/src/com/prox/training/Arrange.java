@@ -1,4 +1,4 @@
-package com.prox1.assignment;
+package com.prox.training;
 
 public class Arrange {
 
