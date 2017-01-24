@@ -10,6 +10,7 @@ public class Even {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter a number:");
 		int n = scan.nextInt();
+		scan.close();
 		for(i=1;i<=n;i++)
 		if(i%2==0)
 		{
