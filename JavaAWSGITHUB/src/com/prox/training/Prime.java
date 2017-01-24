@@ -14,7 +14,7 @@ public class Prime {
 		for(i=1;i<=n;i++)
 		{
 			int counter = 0;
-			for(num=1;num>=1;num--)
+			for(num=i;num>=1;num--)
 			{
 				if(i%num==0)
 				{
