@@ -10,6 +10,9 @@ public class StaticDemo {
 		e1.setDesignation("Java Developer");
 		System.out.println(e1.getFullName());
 		System.out.println(e1.getDesignation());
+		// Static variables can be called by Class Name.
+		// Static-Final combo naming convention is capital
+		// Final variables needs initialization when declared and the value never changes.
 		System.out.println(Employee.COMPANY);
 		
 
