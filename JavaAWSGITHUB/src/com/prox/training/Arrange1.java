@@ -11,7 +11,7 @@ public class Arrange1 {
 			//System.out.println(s);
 			for(int j=1;j<=i;j++)
 			{
-				System.out.print(j);
+				System.out.print(j + " ");
 			}
 			System.out.println(" ");
 		}
@@ -21,7 +21,7 @@ public class Arrange1 {
 			//System.out.println(s);
 			for(int j=i;j>0;j--)
 			{
-				System.out.print(j);
+				System.out.print(j + " ");
 			}
 			System.out.println(" ");
 		}
