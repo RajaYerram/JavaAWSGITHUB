@@ -4,7 +4,7 @@ public class Math extends Department{
 
 
 
-	public int budget = 500;
+	public int budget = 5000;
 
 	
 
