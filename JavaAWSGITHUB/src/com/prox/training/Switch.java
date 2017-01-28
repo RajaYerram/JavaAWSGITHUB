@@ -6,7 +6,7 @@ public class Switch {
 
 	public static void main(String[] args) {
 		int numDays = 0;
-		int year = 2000;
+		int year = 2100;
 		System.out.println("Enter the number of the month:");
 		Scanner s = new Scanner(System.in);
 		int month = s.nextInt();

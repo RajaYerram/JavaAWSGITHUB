@@ -21,6 +21,16 @@ public class Math extends Department{
 		return budget + getBudget();
 
 	}
+	
+	@Override
+	public void logsIn(){
+		System.out.println("Logged into System 1");
+		super.logsIn();
+	}
+	
+	public Math(){
+		System.out.println("I'm in Math class constructor");
+	}
 
 	
 
